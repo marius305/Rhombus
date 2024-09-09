@@ -1,2 +1,1 @@
-# 102-Rhombus-2
-Graphic application
+# 102-Rhombus-2 : Graphic application
