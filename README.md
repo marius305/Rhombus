@@ -1,4 +1,4 @@
-# 102-Rhombus-2
+# Rhombus
 This application draws on the screen a rhombus for which the size of one of the diagonals has been entered from the user's keyboard.
 ## Compile and run
 The application can be found in the file 'CODE 102 2 ENGLISH' and is written in the C++ language. Consequently, an IDE that supports applications written in C++ (for example Codeblocks) will be used for compilation and running.
